@@ -1,1 +1,26 @@
-{}
+{
+    "icons_Data_Structure.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CSE03", 
+            "name": "icons_Data_Structure.png", 
+            "org": "IIIT-Hyderabad", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "icons_Data Structure.png", 
+        "filename": "asset-v1:IIIT-Hyderabad+CSE03+Anytime+type@asset+block@icons_Data_Structure.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-Hyderabad", 
+            "CSE03", 
+            "thumbnail", 
+            "icons_Data_Structure-png.jpg", 
+            null
+        ]
+    }
+}
