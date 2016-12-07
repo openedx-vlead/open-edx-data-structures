@@ -1,26 +1,24 @@
 {
     "course/course": {
-        "advertised_start": "Anytime", 
-        "course_image": "icons_Data Structure.png", 
         "discussion_topics": {
             "General": {
                 "id": "i4x-IIITH-CSE03-course-CSE03"
             }
         }, 
         "display_name": "Data Structures", 
-        "end": null, 
-        "enrollment_end": null, 
-        "enrollment_start": null, 
-        "language": "en", 
-        "start": "2016-04-01T00:00:00Z", 
+        "instructor_info": {
+            "instructors": []
+        }, 
+        "learning_info": [], 
+        "start": "2016-09-30T00:00:00Z", 
         "tabs": [
             {
-                "name": "Courseware", 
-                "type": "courseware"
+                "name": "Home", 
+                "type": "course_info"
             }, 
             {
-                "name": "Course Info", 
-                "type": "course_info"
+                "name": "Course", 
+                "type": "courseware"
             }, 
             {
                 "name": "Textbooks", 
@@ -41,8 +39,8 @@
         ], 
         "xml_attributes": {
             "filename": [
-                "course/course.xml", 
-                "course/course.xml"
+                "course/CSE03.xml", 
+                "course/CSE03.xml"
             ]
         }
     }
