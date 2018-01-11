@@ -3,7 +3,7 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "CSE01", 
+            "course": "cse01", 
             "name": "IIITH-Data_Structures.jpg", 
             "org": "IIIT-Hyderabad", 
             "revision": null, 
@@ -11,13 +11,13 @@
             "tag": "c4x"
         }, 
         "displayname": "IIITH-Data Structures.jpg", 
-        "filename": "asset-v1:IIIT-Hyderabad+CSE01+Anytime+type@asset+block@IIITH-Data_Structures.jpg", 
+        "filename": "asset-v1:IIIT-Hyderabad+cse01+Anytime+type@asset+block@IIITH-Data_Structures.jpg", 
         "import_path": "IIITH-Data Structures.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "IIIT-Hyderabad", 
-            "CSE01", 
+            "cse01", 
             "thumbnail", 
             "IIITH-Data_Structures.jpg", 
             null
@@ -27,7 +27,7 @@
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "CSE01", 
+            "course": "cse01", 
             "name": "icons_Data_Structure.png", 
             "org": "IIIT-Hyderabad", 
             "revision": null, 
@@ -35,13 +35,13 @@
             "tag": "c4x"
         }, 
         "displayname": "icons_Data Structure.png", 
-        "filename": "asset-v1:IIIT-Hyderabad+CSE01+Anytime+type@asset+block@icons_Data_Structure.png", 
+        "filename": "asset-v1:IIIT-Hyderabad+cse01+Anytime+type@asset+block@icons_Data_Structure.png", 
         "import_path": "icons_Data Structure.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "IIIT-Hyderabad", 
-            "CSE01", 
+            "cse01", 
             "thumbnail", 
             "icons_Data_Structure-png.jpg", 
             null
